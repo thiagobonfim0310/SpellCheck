@@ -1,12 +1,12 @@
 # Speel Check 
 ***
-#### Funcionalidade
-O programa cria uma tabela hash a parti do arquivo dicionario.txt
-e verifica quantas da palavras do aqruivo arquivo.txt estão no 
+#### Sobre este projeto
+
+O programa cria uma tabela hash a parti do arquivo dicionario.txte verifica quantas da palavras do aqruivo arquivo.txt estão no 
 dicionario.
-#### Aquivos
-Os arquivo .txt estão formatados de tal forma deixando uma palavra 
-por linha, sem pontuação e sem acentos.
+
+#### Algumas observaçoe
+Os arquivo .txt estão formatados de tal forma deixando uma palavra por linha, sem pontuação e sem acentos.
 
 #### Execução
 
